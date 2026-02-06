@@ -1,1 +1,0 @@
-# Model-Pruning-Optimization-for-Edge-AI
